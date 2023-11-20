@@ -1,0 +1,18 @@
+//- Bloques Que te hacen mover las lentos y mas rapidos
+
+//- Gravedad
+
+// - Zona que te cambie de dimension
+
+- Plataformas moviles
+
+// - Boton
+
+// PickUps
+
+// Pinchos
+
+
+Cambiar la direccion del cañon dependiendo de la dimension o un boton
+
+- Hacer que las cosas esten en una dimension u otra
