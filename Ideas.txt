@@ -5,6 +5,8 @@
 // - Zona que te cambie de dimension
 
 - Plataformas moviles
+	Hecho pero falta que no tenga problemas en detectar una misma colision
+	Debo comprobar las distintas gravedades
 
 // - Boton
 
